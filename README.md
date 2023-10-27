@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ve-selectlist.lineitsolutions.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/logaretm/vee-validate/main/logo.png" width="200" title="Go to website">
+    <img src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1698407360/cooltext446036587299255_xfxwln.png" width="200" title="Go to website">
   </a>
 </p>
 
